@@ -1,0 +1,102 @@
+body{
+    background-image: url(fondo2.jpg);
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: 50px;
+}
+.memememe{
+    background-color:#AA89D9;
+    padding: 50px;
+    height: 45cm;
+}
+h1{
+    color:#B7AEF2;
+    text-align: right;
+    font-family: "Comic Relief", system-ui;
+    position:relative; top: -300px;
+    margin-right: 10%;
+}
+h2{
+    color: #C3B6F2;
+    text-align: right;
+    font-family: "Comic Relief", system-ui;
+    position:relative; top: -300px;
+    margin-right: 20%;
+}
+.a1{
+    color: black;
+    text-align: right;
+    font-family: "Savate", sans-serif;
+    position:relative; top: -300px;
+    margin-right: 26%;
+    font-size: large;
+}
+.a2{
+    color:black;
+    text-align: right;
+    font-family: "Savate", sans-serif;
+    position:relative; top: -300px;
+    margin-right: 23%;
+    font-size: large;
+}
+.a3{
+    color: #000000;
+    text-align: right;
+    font-family: "Savate", sans-serif;
+    position:relative; top: -300px;
+    margin-right: 22%;
+    font-size: large;
+}
+.yo{
+    text-align: center;
+    font-size: 35px;
+    font-family:"Comic Relief", system-ui;
+    position:relative; top: -250px;
+    margin-right: -2%;
+}
+h4{
+    color:black;
+    text-align: center;
+    font-family:"Exo 2", sans-serif;
+    font-size: large;
+    position:relative; top: -250px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.cole{
+    text-align: center;
+    font-size: 35px;
+    font-family:"Comic Relief", system-ui;
+    position:relative; top: -250px;
+    margin-right: -2%;
+}
+h3{
+    color: #DBD0F2;
+    text-align: center;
+    font-size: 35px;
+    font-family:"Comic Relief", system-ui;
+    position:relative; top: -250px;
+    margin-right: -2%;
+}
+ol{
+    color:black;
+    text-align: center;
+    font-family:"Exo 2", sans-serif;
+    font-weight: bold;
+    font-size: large;
+    position:relative; top:-250px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.foto{
+ text-align: left;
+ margin-left: 6%;
+ margin-top: 2%;
+}
+img{
+    border-radius: 100px;
+}
+.botones{
+     text-align: center;
+    position:relative;top: -140px;
+}

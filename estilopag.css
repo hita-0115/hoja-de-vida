@@ -1,0 +1,39 @@
+body{
+    background-image: url(fondo\ 1.jpg);
+    margin-left: 5%;
+   margin-right: 5%;
+   padding: 50px;    
+}
+main{
+    background-color: #B7AEF2;
+    padding: 50px;
+    height: 12cm;
+}
+h2{
+    text-align: right;
+    font-family: "Savate", sans-serif;
+    font-size: 50px;
+    color: #382F73;
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-top: -45%; 
+    margin-bottom: 30%;   
+}
+h3{
+    text-align: center;
+    font-family: "Exo 2", sans-serif;
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-top: -25%;
+}
+.foto{
+ text-align: left;
+ margin-bottom: 10%;
+}
+img{
+    border-radius: 1000px;
+}
+.botones{
+    text-align: right;
+    margin-right: 25%;
+}
