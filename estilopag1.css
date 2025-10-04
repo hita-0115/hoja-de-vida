@@ -1,14 +1,17 @@
+/* Estilos generales del body */
 body{
     background-image: url(fondo2.jpg);
     margin-left: 8%;
     margin-right: 8%;
     padding: 50px;
 }
+/* Contenedor principal (fondo de la hoja de vida) */
 .memememe{
     background-color:#AA89D9;
     padding: 50px;
     height: 45cm;
 }
+/* Estilo del nombre principal (h1) */
 h1{
     color:#B7AEF2;
     text-align: right;
@@ -16,6 +19,7 @@ h1{
     position:relative; top: -300px;
     margin-right: 10%;
 }
+/* Subtítulo "Información personal" */
 h2{
     color: #C3B6F2;
     text-align: right;
@@ -23,6 +27,7 @@ h2{
     position:relative; top: -300px;
     margin-right: 20%;
 }
+/* Teléfono (h3 con clase .a1) */
 .a1{
     color: black;
     text-align: right;
@@ -31,6 +36,7 @@ h2{
     margin-right: 26%;
     font-size: large;
 }
+/* Dirección (h3 con clase .a2) */
 .a2{
     color:black;
     text-align: right;
@@ -39,6 +45,7 @@ h2{
     margin-right: 23%;
     font-size: large;
 }
+/* Correo electrónico (h3 con clase .a3) */
 .a3{
     color: #000000;
     text-align: right;
@@ -47,6 +54,7 @@ h2{
     margin-right: 22%;
     font-size: large;
 }
+/* Subtítulo "Sobre Mi" */
 .yo{
     text-align: center;
     font-size: 35px;
@@ -54,6 +62,7 @@ h2{
     position:relative; top: -250px;
     margin-right: -2%;
 }
+/* Texto descriptivo (h4) */
 h4{
     color:black;
     text-align: center;
@@ -63,6 +72,7 @@ h4{
     margin-left: 2%;
     margin-right: 2%;
 }
+/* Subtítulo "Formación Académica" */
 .cole{
     text-align: center;
     font-size: 35px;
@@ -70,6 +80,7 @@ h4{
     position:relative; top: -250px;
     margin-right: -2%;
 }
+/* Subtítulos generales (H3: Habilidades, Fortalezas, etc.) */
 h3{
     color: #DBD0F2;
     text-align: center;
@@ -78,6 +89,7 @@ h3{
     position:relative; top: -250px;
     margin-right: -2%;
 }
+/* Estilos de listas ordenadas */
 ol{
     color:black;
     text-align: center;
@@ -88,14 +100,17 @@ ol{
     margin-left: 2%;
     margin-right: 2%;
 }
+/* Contenedor de la foto */
 .foto{
  text-align: left;
  margin-left: 6%;
  margin-top: 2%;
 }
+/* Imagen de perfil */
 img{
     border-radius: 100px;
 }
+/* Contenedor de los botones */
 .botones{
      text-align: center;
     position:relative;top: -140px;

@@ -1,40 +1,47 @@
+/* Estilos generales del cuerpo de la página */
 body{
     background-image: url(fondo3.jpg);
     padding: px;
     padding-left: 70px;
     padding-right: 70px;
 }
+/* Estilo del título principal "PORTAFOLIO" */
 h1{
     text-align: center;
     font-family: "Josefin Sans", sans-serif;
     color: #CAC4F2;
 }
+/* Contenedor del título (parte superior del portafolio) */
 .titu{
     background-color:#393073;
     padding: 25px;
 }
+/* Sección de trabajos 3D */
 .D3{
     background-color: #CAC4F2;
     text-align: center;
     padding: 25px;
 }
+/* Títulos secundarios (3D, Adobe, Fotografías) */
 h2{
 text-align: center;
 font-family: "Savate", sans-serif;
 font-size:xx-large;
 color: #393073;
 }
-
+/* Sección de trabajos con programas de Adobe */
 .Adobe{
     background-color: #7581B3;
     text-align: center;
     padding: 25px;
 }
+/* Sección de fotografías */
 .fotos{
     background-color: #A2ADDA;
     text-align: center;
     padding: 25px;
 }
+/* Sección inferior con botones de navegación */
 .Bb{
     background-color:#7581B3;
     padding: 15px;
